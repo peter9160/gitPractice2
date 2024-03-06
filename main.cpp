@@ -14,5 +14,7 @@ int main()
 
     cout << "\nYour name is: " << userName << endl << endl;
 
+    cout << "This file should be within a new git branch titled nameOfBranch" << endl;
+
     return 0;
 }
